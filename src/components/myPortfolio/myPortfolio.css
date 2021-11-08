@@ -12,6 +12,7 @@
     display: flex;
     justify-content: space-around;
     flex-wrap:wrap;
+    padding-bottom: 50px;
 }
 .links{
     width:300px;
@@ -20,4 +21,17 @@
 .links:hover{
     height:310px;
     width:310px;
+}
+
+@media screen and (min-width:360px) and (max-width:640px) {
+   
+    .portfolio{
+        display: flex;
+        justify-content: center;
+        padding-left: 500px;
+    }
+    .links{
+        width:500px;
+        height:500px;
+    }
 }

@@ -30,3 +30,29 @@ h4{
     height:60px;
     padding:25px;
 }
+
+@media  screen and (min-width:360px) and (max-width:640px) {
+    .about{
+        width:720px;
+        margin:50px 60px 50px 60px;
+    }
+    .AboutMe{
+        font-size: 80px;
+    }
+    p{
+        font-size: 40px;
+    }
+    h4{
+        font-size: 45px;
+    }
+    .skills{
+        display: inline-block;
+        box-shadow: 2px 2px 20px 2px #dfebed;
+        padding:0px 5px 0px 5px;
+    }
+    .logo{
+        width:100px;
+        height:100px;
+        padding:25px;
+}
+}

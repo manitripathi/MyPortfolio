@@ -104,3 +104,12 @@ h2{
 a{
     color: black;
 }
+
+@media screen and (min-width:340px) and (max-width:640px){
+    .ResumeHeading{
+        font-size: 60px;
+    }
+    #ResumeMain{
+        margin-right: 20px;
+    }
+}

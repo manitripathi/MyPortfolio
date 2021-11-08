@@ -2,6 +2,7 @@
     background-image: url(./color-image.png);
     height:250px;
     padding:100px 0px 0px 0px;
+    width:100%;
 }
 .t1{
     color: orange;
@@ -40,4 +41,30 @@
     color: white;
     text-align: center;
     padding-left: 15px;
+}
+
+@media screen and (min-width:360px) and (max-width:640px) {
+    .headBackImg{
+        height: 302px;
+        width:150vh;
+        padding-bottom: 22px;
+        margin-bottom: 30px;
+    }
+    .t1{
+        font-size: 48px;
+    }
+    .t2{
+        font-size: 38px;
+    }
+    .t3{
+        font-size: 30px;
+    }
+    .btn{
+        width:250px;
+        height:60px;
+        color: white;
+    }
+    .btn11{
+        font-size: 30px;
+    }
 }

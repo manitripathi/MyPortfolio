@@ -14,11 +14,11 @@ export default class Contact extends Component{
                     <h2 className='main1'>Let's Connect</h2>
                     
                     <div className='main11'>
-                        <img src={mail}></img>
+                        <img src={mail} className='image' alt='image'></img>
                         <div>manitripathi.023@gmail.com</div>
                     </div>
-                    <div>
-                        <img src={phone}></img>
+                    <div className='main12'>
+                        <img src={phone} className='image' alt='image'></img>
                         <div>8533974635</div>
                     </div>
                     

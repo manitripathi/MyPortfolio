@@ -7,11 +7,11 @@ export default class Navbar extends React.Component{
             <div className='navbar'>
                 <div className='Name'>Mani Tripathi</div>
                     <div class='navOptions'>
-                        <a href='#App'>Home</a>
-                        <a href='#about'>About</a>
-                        <a href='#portfolio'>Portfolio</a>
-                        <a href='#ResumeMain'>Resume</a>
-                        <a href='#Contact'>Contact</a>
+                        <a href='#App' alt='home'>Home</a>
+                        <a href='#about' alt='About'>About</a>
+                        <a href='#portfolio' alt='Portfolio'>Portfolio</a>
+                        <a href='#ResumeMain' alt='Resume'>Resume</a>
+                        <a href='#Contact' alt='Contact'>Contact</a>
                     </div>
             </div>   
         )
