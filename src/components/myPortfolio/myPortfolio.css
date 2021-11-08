@@ -1,0 +1,23 @@
+.Heading{
+    color:#2c5d63;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.line{
+    border: 2px orange solid;
+    width:200px;
+    margin-bottom: 50px;
+}
+.portfolio{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+.links{
+    width:300px;
+    height:300px;
+}
+.links:hover{
+    height:310px;
+    width:310px;
+}

@@ -1,0 +1,106 @@
+#ResumeMain{
+    margin:50px 100px 50px 100px;
+    width:750px;
+}
+.ResumeHeading{
+    color:#2c5d63;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.line1{
+    border: 2px orange solid;
+    width:150px;
+    margin-bottom: 50px;
+}
+.resumeStart{
+    text-align: left;
+    display: inline-block;
+}
+.ResumeHeader{
+    /* background-color: #313c4e; */
+    background-color: #222831;
+    color: white;
+    padding:2px 0px 2px 5px;
+}
+.Name{
+    font-size: 35px;
+}
+.subName{
+    font-size: 20px;
+}
+.line2{
+    width:200px;
+    margin-left: 0%;
+}
+.ResumeObjctive{
+    color:white;
+}
+
+.Logo{
+    margin-left: 0%;
+    height:20px;
+    color: black;
+    text-align: left;
+    align-items: left;
+}
+.info{
+    text-align: left;
+}
+.link{
+    color:black;
+    text-align: left;
+    margin-left: 0%;
+}
+.stLine{
+    width:200px;
+}
+.mainBlock{
+    display: flex;
+}
+.mainBlock1{
+    margin-right:25px;
+    margin-top: 20px;
+}
+h2{
+    text-align: left;
+}
+.sideDetails{
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: left;
+}
+.skillSet{
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    background-color: gray;
+    color: white;
+}
+.details{
+    text-align: left;
+    font-weight: 600;
+}
+
+.mainBlock2{
+    text-align: left;
+}
+.stLine1{
+    width:450px;
+    margin-left: 0px;
+}
+.L1{
+    font-size: 18px;
+    font-weight: 500;
+}
+.L2{
+    font-style: italic;
+}
+.L3{
+    font-size: 15px;
+}
+
+a{
+    color: black;
+}

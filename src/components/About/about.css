@@ -1,0 +1,32 @@
+.about{
+    border:2px white solid;
+    margin:50px 100px 50px 100px;
+    box-shadow: 2px 2px 20px 2px #dfebed;
+    padding:50px 50px 50px 50px;
+}
+.AboutMe{
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+}
+.hrLine{
+    width: 150px;
+    border:2px orange solid;
+}
+p{
+    color:#007cb9;
+}
+.skills{
+    display: inline-block;
+    box-shadow: 2px 2px 20px 2px #dfebed;
+    padding:0px 0px 0px 20px;
+}
+h4{
+    color: green;
+    text-align: left;
+}
+.logo{
+    width:60px;
+    height:60px;
+    padding:25px;
+}
