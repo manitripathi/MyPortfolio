@@ -12,10 +12,10 @@ export default class MyPortfolio extends Component{
                 <div className='Heading'>My Portfolio</div>
                 <hr className='line'/>
                 <div className='portfolio'>
-                    <a href='https://manitripathi.github.io/ToDoAppJS/'><img src={ToDoList} className='links' alt='img'></img></a>
-                    <a href='https://manitripathi.github.io/loveCalculator/'><img src={LoveCalculator} className='links' alt='img'></img></a>
-                    <a href='https://manitripathi.github.io/ReminderClockApp/'><img src={clock} className='links' alt='img'></img></a>
-                    <a href='https://manitripathi.github.io/css5-animation/'><img src={car} className='links' alt='img'></img></a>
+                    <a href='https://manitripathi.github.io/ToDoAppJS/'><img src={ToDoList} className='links' alt=''></img></a>
+                    <a href='https://manitripathi.github.io/loveCalculator/'><img src={LoveCalculator} className='links' alt=''></img></a>
+                    <a href='https://manitripathi.github.io/ReminderClockApp/'><img src={clock} className='links' alt=''></img></a>
+                    <a href='https://manitripathi.github.io/css5-animation/'><img src={car} className='links' alt=''></img></a>
                 </div>
             </div>
         )

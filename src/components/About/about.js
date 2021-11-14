@@ -18,11 +18,11 @@ export default class About extends React.Component{
               <div className='skills'>
                   <h4>Languages/Library/Technology</h4>
                   <div>
-                      <img src={html5} className='logo'/>
-                      <img src={css} className='logo'/>
-                      <img src={js} className='logo'/>
-                      <img src={react} className='logo'/>
-                      <img src={github} className='logo'/>
+                      <img src={html5} className='logo' alt=""/>
+                      <img src={css} className='logo' alt=""/>
+                      <img src={js} className='logo' alt=""/>
+                      <img src={react} className='logo' alt=""/>
+                      <img src={github} className='logo' alt=""/>
                       
                   </div>
               </div>

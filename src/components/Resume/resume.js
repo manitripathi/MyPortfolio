@@ -24,13 +24,13 @@ export default class Resume extends Component{
                 <div className='mainBlock'>
                   <div className='mainBlock1'>
                     <div>
-                            <div className='Logo'><img src={mail}></img></div>
+                            <div className='Logo'><img src={mail} alt=""></img></div>
                             <div className='info'>manitripathi.023@gmail.com</div>
-                            <div className='Logo'><img src={phone}></img></div>
+                            <div className='Logo'><img src={phone} alt=""></img></div>
                             <div className='info'>8533974635</div>
-                            <div className='Logo'><img src={location} className='Logo'></img></div>
+                            <div className='Logo'><img src={location} className='Logo' alt=""></img></div>
                             <div className='info'>Gorakhpur, Uttar Pradesh,India</div>
-                            <div className='Logo'><img src={github} className='Logo'></img></div>
+                            <div className='Logo'><img src={github} className='Logo' alt=""></img></div>
                             <div className='info'><a href='https://github.com/manitripathi' className='link'>github.com/manitripathi</a></div>
                     </div>
                     <div>
