@@ -7,9 +7,10 @@
     display: flex;
     justify-content: space-evenly;
 }
-a{
+.links{
     text-decoration: none;
     margin-right: 20px;
+    cursor: pointer;
 }
 .Name{
     font-size: 35px;
