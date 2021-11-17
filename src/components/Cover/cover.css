@@ -41,12 +41,14 @@
     color: white;
     text-align: center;
     padding-left: 15px;
+    text-decoration: none;
+    cursor: pointer;
 }
 
-@media screen and (min-width:360px) and (max-width:640px) {
+@media screen and (min-width:320px) and (max-width:640px) {
     .headBackImg{
         height: 302px;
-        width:150vh;
+        width:138vh;
         padding-bottom: 22px;
         margin-bottom: 30px;
     }
@@ -66,5 +68,6 @@
     }
     .btn11{
         font-size: 30px;
+        
     }
 }
