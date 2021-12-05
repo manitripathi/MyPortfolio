@@ -1,6 +1,6 @@
 import React from "react";
 import './cover.css';
-import ManiResume from './Mani_Resume.pdf';
+import ManiResume from './Mani_Tripathi-Resume.pdf';
 import {Link} from "react-scroll";
 
 function Cover(){

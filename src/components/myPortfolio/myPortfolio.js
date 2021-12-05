@@ -4,6 +4,7 @@ import ToDoList from './ToDoList.webp';
 import LoveCalculator from './LoveCalculator.jpg';
 import clock from './clock.jpg';
 import car from './car.jpg';
+import ReactBlog from './blogProject.PNG';
 
 export default class MyPortfolio extends Component{
     render(){
@@ -16,6 +17,7 @@ export default class MyPortfolio extends Component{
                     <a href='https://manitripathi.github.io/loveCalculator/'><img src={LoveCalculator} className='links' alt=''></img></a>
                     <a href='https://manitripathi.github.io/ReminderClockApp/'><img src={clock} className='links' alt=''></img></a>
                     <a href='https://manitripathi.github.io/css5-animation/'><img src={car} className='links' alt=''></img></a>
+                    <a href='https://manitripathi.github.io/React-Blog-App/'><img src={ReactBlog} className='links' alt=''></img></a>
                 </div>
             </div>
         )

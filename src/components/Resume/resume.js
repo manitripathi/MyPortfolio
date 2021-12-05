@@ -39,6 +39,7 @@ export default class Resume extends Component{
                         <div className='sideDetails'>
                             <span className='skillSet'>HTML5</span>
                             <span className='skillSet'>CSS</span>
+                            <span className='skillSet'>SASS</span>
                             <span className='skillSet'>JAVASCRIPT</span>
                             <span className='skillSet'>GIT</span>
                             <span className='skillSet'>REACT</span>
